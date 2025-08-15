@@ -23,7 +23,7 @@ The notebook `8963215_AAIML_FinalExamPartB.ipynb` implementing:
 - Automated marketing insights per cluster.
 
 ### HTML Export (for GitHub Pages)
-You can view the published notebook [here](https://paulamrz-c.github.io/CSCN80000-FINALEXAM-PR/8963215_AAIML_FinalExamPartB.html)
+You can view the published notebook [here](https://paulamrz-c.github.io/CSCN8000-Final-Exam-PR/8963215_AAIML_FInalExamPartB.html)
 
 ## Quick Start
 
